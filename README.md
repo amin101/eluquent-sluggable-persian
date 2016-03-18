@@ -7,7 +7,7 @@ Laravel Eloquent sluggable for persian &amp; arabic labguages
 
 1. install [eloquent sluggable](https://github.com/cviebrock/eloquent-sluggable)
 2. run `php artisan config:publish cviebrock/eloquent-sluggable` in command-line
-3. replace `app/config/sluggable.php` with [config.php](https://github.com/morilog/eluquent-sluggable-persian/blob/master/config.php) 
+3. replace `app/config/sluggable.php` with [config.php](https://github.com/morilog/eluquent-sluggable-persian/blob/master/config.php)   
 note: dont replace config content,but the entire config file. unless the slug won't render correctly 
 
 
